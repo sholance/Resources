@@ -5,10 +5,9 @@ description: "List of Legos Useful to the Open Data Community"
 
 ### List of Useful Legos
 
-Legos
 Below is a list curated to highlight some of the Legos useful to the ODC Landscape.
 
-legos are literally "pieces that can be joined together to make models of many different objects" and more importantly Legos in this context are said to be **components of the data mesh which have consistent input and outputs which can easily duplicate analysis and other repeated functions used to better empower communities collective decision making [more](https://github.com/Fraud-Detection-and-Defense/lego-docs) and [more](https://gov.gitcoin.co/t/public-goods-legos-roadmap/12546) on Legos**
+Legos are literally "pieces that can be joined together to make models of many different objects" and more importantly Legos in this context are said to be **components of the data mesh which have consistent input and outputs which can easily duplicate analysis and other repeated functions used to better empower communities collective decision making. [More](https://github.com/Fraud-Detection-and-Defense/lego-docs) and [more](https://gov.gitcoin.co/t/public-goods-legos-roadmap/12546) on Legos**
 
 
 **On-Chain History:**
@@ -33,7 +32,7 @@ When this lego is combined with several other Legos, a more robust and comprehen
 
 **High Frequency Trading:**
 
-- How it works: *Returns boolean wallet activity timestamps over # of transactions;*
+- How it works: *Returns boolean wallet activity timestamps over number of transactions.*
 
 - Grant Lego: *The range of wallet activity timestamps over the number of transactions; often an indicator of bot-control or other automatic wallet-vetting scripts; The threshold for this metric is yet to be determined and may be set dynamically based on community averages. This dynamic approach allows for a more accurate representation of the range of wallet activity timestamps and a more effective way of detecting potential bot activity.*
 
@@ -64,7 +63,7 @@ When this lego is combined with several other Legos, a more robust and comprehen
 
 - [Public goods legos roadmap](https://gov.gitcoin.co/t/public-goods-legos-roadmap/12546)
 - [Legos for Prioritization](https://docs.google.com/spreadsheets/d/1FIYR7wtFEGfZTjMNXDMbkRDyfdtgkWJvbvsLpAD5eSE/edit#gid=354684328)
-- [Open Data COmmunity Discord](https://discord.gg/Ye3QrWf6fG)
+- [Open Data Community Discord](https://discord.gg/Ye3QrWf6fG)
 - [Gitcoin Governace Forum](https://discord.gg/gitcoin)
 
 
